@@ -1,0 +1,14 @@
+﻿[
+  {
+    "id": 1,
+    "name": "NormalAtk",
+    "skillPath": "Skill/NormalAtk",
+    "skillIcon": ""
+  },
+  {
+    "id": 2,
+    "name": "Skill",
+    "skillPath": "Skill/Skill",
+    "skillIcon": ""
+  }
+]

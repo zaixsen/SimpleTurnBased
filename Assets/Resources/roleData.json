@@ -1,0 +1,57 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Role1",
+    "Atk": 1,
+    "HP": 10,
+    "roleType": "Role",
+    "modelPrefab": "Model/Role",
+    "x": 3,
+    "y": 0,
+    "z": -1.5
+  },
+  {
+    "id": 2,
+    "name": "Role2",
+    "Atk": 2,
+    "HP": 11,
+    "roleType": "Role",
+    "modelPrefab": "Model/Role",
+    "x": 3,
+    "y": 0,
+    "z": 0
+  },
+  {
+    "id": 3,
+    "name": "Role3",
+    "Atk": 3,
+    "HP": 12,
+    "roleType": "Role",
+    "modelPrefab": "Model/Role",
+    "x": 3,
+    "y": 0,
+    "z": 1.5
+  },
+  {
+    "id": 1,
+    "name": "Pet1",
+    "Atk": 1,
+    "HP": 10,
+    "roleType": "Pet",
+    "modelPrefab": "Model/Pet",
+    "x": 2,
+    "y": 0,
+    "z": -1
+  },
+  {
+    "id": 2,
+    "name": "Pet2",
+    "Atk": 2,
+    "HP": 11,
+    "roleType": "Pet",
+    "modelPrefab": "Model/Pet",
+    "x": 2,
+    "y": 0,
+    "z": 1
+  }
+]
